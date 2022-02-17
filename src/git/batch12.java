@@ -7,7 +7,7 @@ public class batch12 {
 
 		System.out.println("we are human");
 		System.out.println("whats upp");
-		
+		System.out.println("hey buddy");
 	}
 
 }
